@@ -3,6 +3,9 @@
 Modified based on https://github.com/Nuclearstar/End-to-End-Learning-for-Self-Driving-Cars
 
 tested on Ubuntu 22
+## Dataset
+You can download the dataset from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip) for Implementation 1.<br/>
+You can download the dataset and extract into the repository folder from [here](https://github.com/SullyChen/driving-datasets) for Implementation 2.
 
 1. Implementation 1
 2. Implementation 2
